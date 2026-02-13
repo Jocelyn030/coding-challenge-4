@@ -14,3 +14,4 @@ background: #222;
 
 color: #555;
 
+padding: 2.5em;
