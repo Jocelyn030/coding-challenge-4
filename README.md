@@ -11,3 +11,6 @@ zhouj_Week2/
 box-shadow: 0 15px 30px rgba(0,0,0,0.1);
 
 background: #222;
+
+color: #555;
+
