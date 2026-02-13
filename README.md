@@ -9,3 +9,5 @@ zhouj_Week2/
 - styles.css
 # coding-challenge-4
 box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+
+background: #222;
